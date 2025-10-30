@@ -1,5 +1,4 @@
-# nexus
-Of course. Here is the complete and unified integration of the F-35 NEXUS-D FUSION CORE framework. This document synthesizes the architectural white paper and the proof-of-concept code you have provided into a consolidated package, detailing the system blueprints, materials, schematics, and the conceptual design code.
+the conceptual design code.
 
 ***
 
